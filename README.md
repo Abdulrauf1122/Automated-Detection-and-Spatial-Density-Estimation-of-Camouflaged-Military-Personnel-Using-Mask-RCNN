@@ -1,4 +1,4 @@
-# 🪖 Automated Detection and Spatial Density Estimation of Camouflaged Military Personnel Using Mask R-CNN
+#  Automated Detection and Spatial Density Estimation of Camouflaged Military Personnel Using Mask R-CNN
 
 ## Overview
 
